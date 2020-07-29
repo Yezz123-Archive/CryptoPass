@@ -2,6 +2,8 @@
     Supported platform: Mac, Linux and Windows
 """
         __email__ = 'yasserth19@protonmail.com'
+        __instagram__ = 'https://www.instagram.com/froggy__19/'
+        
 
 ## ██████╗██████╗ ██╗   ██╗██████╗ ████████╗ ██████╗ ██████╗  █████╗ ███████╗███████╗
 ## ██╔════╝██╔══██╗╚██╗ ██╔╝██╔══██╗╚══██╔══╝██╔═══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝
